@@ -9,9 +9,9 @@ function Home() {
             <h2>Hi, This is Akshay</h2>
             <div className='prompt'>
                 <p>I am a software engineer, keen on working new projects and solving challenging problems.</p>
-                <LinkedIn/>
-                <Email/>
-                <GitHub/>
+                <a href="https://www.linkedin.com/in/akshayth"><LinkedIn/></a>
+                <a href="mailto:akshay@aksact.dev"><Email/></a>
+                <a href="https://github.com/popty"><GitHub/></a>
             </div>
         </div>
         <div className='skills'>
