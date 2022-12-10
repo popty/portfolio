@@ -14,7 +14,7 @@ function ProjectDisplay() {
         <p>
             <b>Skills:</b>{project.skills}
         </p>
-        <GitHub/>
+        <a href="https://github.com/popty/nutrilove"><GitHub/></a>
     </div>
   )
 }

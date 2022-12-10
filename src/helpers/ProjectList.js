@@ -2,9 +2,9 @@ import images from '../assets/images'
 
 export const projectList = [
     {
-        name: "Dijkstra Algorithm Visualiser",
+        name: "OmniFood Website UI",
         image: images.proj1,
-        skills: "ReactJS, Javascript, CSS, HTML"
+        skills: "Javascript, CSS, HTML"
     },
     {
         name: "Ecommerce Website",

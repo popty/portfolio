@@ -1,4 +1,4 @@
-import proj1 from './proj1.jpeg';
+import proj1 from './proj1.png';
 import proj2 from './proj2.jpeg';
 import proj3 from './proj3.webp';
 import proj4 from './proj4.webp';
